@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepu Vijayasenan
 - 👀 I’m interested in basic signal processing and machine learning 
-- 📫 How to reach me deepuv at nitk dot edu dotagain in
+- 📫 Contact: deepuv at nitk dot edu dotagain in
 
 <!---
 deepusen/deepusen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
